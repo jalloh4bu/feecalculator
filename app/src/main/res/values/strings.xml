@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fee Tracker</string>
+   <string-array name="seller_apps">
+       <item>Ebay</item>
+       <item>Vinted</item>
+   </string-array>
+</resources>
